@@ -1,2 +1,10 @@
-# Android-kdxf-C6STU
-Twrp device tree.
+# Android device tree for SPRD ud710_2h10_native (ud710_2h10)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
