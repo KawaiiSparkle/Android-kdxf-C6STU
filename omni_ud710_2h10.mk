@@ -13,11 +13,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from ud710_2h10 device
-$(call inherit-product, device/sprd/fxxk/device.mk)
+$(call inherit-product, device/sprd/ud710_2h10/device.mk)
 
-PRODUCT_DEVICE := fxxk
-PRODUCT_NAME := omni_fxxk
-PRODUCT_BRAND := sprd
+PRODUCT_DEVICE := ud710_2h10
+PRODUCT_NAME := omni_ud710_2h10
+PRODUCT_BRAND := SPRD
 PRODUCT_MODEL := ud710_2h10_native
 PRODUCT_MANUFACTURER := sprd
 
